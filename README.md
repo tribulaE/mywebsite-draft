@@ -4,8 +4,8 @@ This is a draft website for my PC building service.
 
 ## Features
 - Custom PC build form
-- Clean design with HTML, CSS, JS
-- Images for product preview
+- Designed with HTML, CSS, JS
+- Images from google chrome
 
 
 ## Live Preview
